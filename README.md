@@ -5,7 +5,7 @@ Flashcard shell app with sqlalchemy
 Clone this repository:
 
 ```bash
-https://github.com/Mikel45/flashcard-python.git
+git clone https://github.com/Mikel45/flashcard-python.git
 ```
 
 Run the app and follow instructions:
