@@ -8,7 +8,7 @@ Clone this repository:
 https://github.com/Mikel45/flashcard-python.git
 ```
 
-Run the app script and follow instructions:
+Run the app and follow instructions:
 ```bash
 cd flashcard-python
 python index.py
